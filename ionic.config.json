@@ -1,0 +1,8 @@
+{
+  "name": "dietApp",
+  "app_id": "34ba2ad4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
