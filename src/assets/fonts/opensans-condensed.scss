@@ -1,0 +1,34 @@
+// OpenSans Condensed
+// Google Fonts
+// Apache License, version 2.0
+// http://www.apache.org/licenses/LICENSE-2.0.html
+
+$opensans-condensed-font-path: $font-path !default;
+
+@font-face {
+  font-family: "OpenSans Condensed";
+  font-style: normal;
+  font-weight: 300;
+  src: local("OpenSans Condensed"), local("OpenSansCondensed-Light"), url("#{$opensans-condensed-font-path}/OpenSansCondensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans Condensed";
+  font-style: normal;
+  font-weight: 400;
+  src: local("OpenSans Condensed"), local("OpenSansCondensed-Light"), url("#{$opensans-condensed-font-path}/OpenSansCondensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans Condensed";
+  font-style: normal;
+  font-weight: 500;
+  src: local("OpenSans Condensed Bold"), local("OpenSansCondensed-Bold"), url("#{$opensans-condensed-font-path}/OpenSansCondensed-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans Condensed";
+  font-style: normal;
+  font-weight: 700;
+  src: local("OpenSans Condensed Bold"), local("OpenSansCondensed-Bold"), url("#{$opensans-condensed-font-path}/OpenSansCondensed-Bold.ttf") format("truetype");
+}
